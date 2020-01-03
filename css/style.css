@@ -6,7 +6,7 @@ html {
   -webkit-text-size-adjust: none;
 }
 body { margin: 0; font-size: 14px; line-height: 1.61; font-weight: 400; }
-body, button, input, select, textarea { font-family: 'Open Sans', sans-serif; color: #333; }
+body, button, input, select, textarea { font-family: "Source Sans Pro", sans-serif; color: #333; }
 
 a { color: #12C; }
 a:visited { color: #61C; }
@@ -43,7 +43,4 @@ footer {
 footer span { float: right; font-style: italic; }
 
 /* Smartphones (portrait) */
-@media only screen and (max-width: 480px) {
-  body { font-size: 12px;}
-  header p { padding-left: 4.5em;}
-}
+
